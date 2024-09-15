@@ -2,6 +2,7 @@
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   justify-content: center;
   text-align: center;
+  line-height: 5px;
 }
 
 .container{
@@ -10,7 +11,8 @@
 }
 
 .container>h1{
-  padding: 0px 10px;
+  word-spacing: normal;
+  padding: 0 10px;
 }
 
 .top-text {
