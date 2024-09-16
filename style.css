@@ -16,10 +16,6 @@
   padding: 0 10px;
 }
 
-.top-text {
-  left: 300px;
-}
-
 /*bar side*/
 
 .alarm {
@@ -47,7 +43,7 @@
   display: flex;
   margin-right: 400px;
   margin-left: 400px;
-/*  justify-content: space-between; */
+  justify-content: space-between; 
 }
 
 .to-do {
@@ -95,7 +91,7 @@
   margin-bottom: 10px;
 }
 
-.heading {
+/*.heading {
   padding-left: 20px;
   padding-right: 180px;
 }
@@ -113,7 +109,7 @@
 .heading3{
   padding-left: 20px;
   padding-right: 235px;
-}
+}*/
 
 .part1{
   padding: 10px 10px;
@@ -136,7 +132,6 @@
 .part4{
   padding: 10px 10px;
   border-radius: 10px;
-  display: none;
 }
 
 /*@media screen and (min-width:992){
