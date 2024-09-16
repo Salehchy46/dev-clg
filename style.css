@@ -17,7 +17,7 @@
 }
 
 .top-text {
-  text-align: center;
+  left: 300px;
 }
 
 /*bar side*/
@@ -47,6 +47,7 @@
   display: flex;
   margin-right: 400px;
   margin-left: 400px;
+/*  justify-content: space-between; */
 }
 
 .to-do {
@@ -99,7 +100,7 @@
   padding-right: 180px;
 }
 
-.heading1 {
+/*.heading1 {
   padding-left: 20px;
   padding-right: 200px;
 }
@@ -112,7 +113,7 @@
 .heading3{
   padding-left: 20px;
   padding-right: 235px;
-}
+}*/
 
 .part1{
   padding: 10px 10px;
